@@ -18,10 +18,11 @@ Os requisitos são as exigências, recursos, objetivos e utilidades que um siste
 um requisito funcional defini-se pela necessidade, uma função de um aplicativo móvel ou parte dele. Ele é o conjunto de funcionalidades que vão compor seu aplicativo, como por exemplo cadastro de usuários, login, busca por listas etc.
 
 -Requisitos não funcionais:
-Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disónibilidade e tecnologias envolvidas.
+Requisitos não funcionais são as qualidades do sistema. Os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade e tecnologias envolvidas.
 exemplo: segurança- o sistema deve ser protegido contra acesso não autorizado
            atuação- o sistema deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.
 
 -Dois exemplos de trade-offs envolvendo requisitos não funcionais:
-
+um exemplo é quando o programador necessita de um software com maior capacitade de processamento, porém, isso torna o software mais complexo,
+ou quando há uma melhor performace em troca de uma curva de aprendizado mais complicada
 
