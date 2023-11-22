@@ -137,6 +137,11 @@ Permita a personalização, para que os usuários possam fazer seleções sobre 
 
 ![image](https://github.com/julianopradoo/Bertoti/assets/125655127/ae8d8ed9-16ea-471c-9342-598d581b3e2d)
 
+ERRO: Tamanho inadequado do site do siga em dispositivos móveis
+
+![image](https://github.com/julianopradoo/Bertoti/assets/125655127/c286442d-06e8-4eb1-a18a-900afd349cb3)
+
+
  
 # Nº 8: Design estético e minimalista
 
