@@ -24,7 +24,8 @@ ACERTO: Conseguimos facilmente nos localizar e entender qual o conteúdo que vem
 
 ERRO: Página confusa e pouco intuitiva no site do siga
 
-![image](https://github.com/julianopradoo/Bertoti/assets/125655127/5d96e1e5-a56c-4777-af24-daf6b4cfbcd4)
+![image](https://github.com/julianopradoo/Bertoti/assets/125655127/ec4d1134-b24a-490c-b2ce-61948c589cdc)
+
 
 
 # Nº 2: Correspondência entre o sistema e o mundo real
